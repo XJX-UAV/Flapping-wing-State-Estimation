@@ -1,0 +1,7 @@
+<launch>
+	<node pkg="gpr" type="gpr" name="gpr" output="screen">  	
+
+        <!-- <rosparam command="load" file="$(find log)/config/learner_param.yaml" /> -->
+	</node>
+ 
+</launch>
